@@ -2,9 +2,9 @@
 # The type is automatically assigned based on the value.
 
 # Declaring variables of different data types
-name = "Alice"            # string (text)
-age = 25                  # integer
-height = 5.7              # float (decimal number)
+name = "Vaibhav"            # string (text)
+age = 22                  # integer
+height = 6.2             # float (decimal number)
 is_student = True         # boolean (True or False)
 
 # Using type() to check data types of variables
