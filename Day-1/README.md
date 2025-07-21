@@ -39,11 +39,11 @@
 1. Ensure Python 3.x is installed.
 2. Clone this repository:
     ```bash
-    git clone https://github.com/YourGitHubUsername/python-data-ml-roadmap.git
+    git clone https://github.com/vaibhavx1207/Python-Basics
     ```
 3. Navigate to the Day-1 directory:
     ```bash
-    cd python-data-ml-roadmap/Python/Day-1
+    cd Python-Basics/tree/main/Day-1)
     ```
 4. Run a script using:
     ```bash
